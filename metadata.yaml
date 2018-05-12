@@ -1,0 +1,32 @@
+_repo: Cobwebs-and-Cables_19802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+description: '"Sins are at first like cobwebs, at last like cables." -- Title page.'
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Bankers -- Fiction'
+- !lcsh 'Fraud -- Fiction'
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: Cobwebs and Cables
+url: http://www.gutenberg.org/ebooks/19802
